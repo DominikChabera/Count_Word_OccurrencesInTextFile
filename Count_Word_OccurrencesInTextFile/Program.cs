@@ -6,7 +6,7 @@ namespace Count_Word_OccurrencesInTextFile
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            MainOperation mainOperation = new MainOperation(); 
         }
     }
 }
